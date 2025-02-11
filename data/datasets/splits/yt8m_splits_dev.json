@@ -1,0 +1,28 @@
+[
+    {
+        "train_keys": [
+            "video_1",
+            "video_2",
+            "video_3",
+            "video_4",
+            "video_5",
+            "video_6",
+            "video_7",
+            "video_8",
+            "video_9",
+            "video_10"
+        ],
+        "val_keys": [
+            "video_10",
+            "video_15",
+            "video_20",
+            "video_25"
+        ],
+        "test_keys": [
+            "video_10",
+            "video_15",
+            "video_20",
+            "video_25"
+        ]
+    }
+]
